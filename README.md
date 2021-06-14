@@ -34,7 +34,7 @@ addition, a set of 20 blind sequences was provided to check
 the overall performance in generalizing the sequences.
 
 ## Results and discussions
-To evaluate the performance of a classifier (Fig 8),
+To evaluate the performance of a classifier,
 “Accuracy” score was used as the metric. All the different
 classification methods performed similar to each other in
 terms of the Accuracy metric. 
