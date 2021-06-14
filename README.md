@@ -6,9 +6,6 @@ and efficient methods for analyzing huge amounts of data is evident. Finding hom
 difficult task and a close approximation is to find the subcellular location of a protein and mapping its function. In this
 paper, different machine learning algorithms have been experimented and results are discussed.
 
-## Results: 
-Ensemble methods performed the best compared to clustering, non-linear classifiers. Results emphasize the
-Gradient Boosting classifier is able to effectively classify with a test accuracy of 66.7%.
 
 ## Problem:
 
@@ -35,3 +32,14 @@ peptide sequences. These sequences are made of singleletter
 codes which are either base pairs or amino acids. In
 addition, a set of 20 blind sequences was provided to check
 the overall performance in generalizing the sequences.
+
+## Results and discussions
+To evaluate the performance of a classifier (Fig 8),
+“Accuracy” score was used as the metric. All the different
+classification methods performed similar to each other in
+terms of the Accuracy metric. 
+
+
+
+Ensemble methods performed the best compared to clustering, non-linear classifiers. Results emphasize the
+Gradient Boosting classifier is able to effectively classify with a test accuracy of 66.7%.
